@@ -427,7 +427,7 @@ ping 2.2.2.2
 
 ### Screenshot 1: Kali Linux Version
 
-![Kali Linux Version](./screenshots/01_kali_version.png)
+![Kali Linux Version](./Kali_Linux version.png)
 
 *Verifying Kali Linux 2025.4 installation*
 
