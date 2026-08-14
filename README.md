@@ -419,60 +419,57 @@ ping 2.2.2.2
 
 ---
 
----
-
 ## 📷 Screenshots
 
-> **Note:** I will add the actual screenshots here with proper descriptions.
+> Screenshots from the OSPF Automation Lab documenting the setup, configuration, testing, and verification process.
 
 ### Screenshot 1: Kali Linux Version
 
-![Kali Linux Version](./Kali_Linux version.png)
+![Kali Linux Version](./Kali%20Linux%20Version.png)
 
 *Verifying Kali Linux 2025.4 installation*
 
 ### Screenshot 2: Dynamips Version
 
-![Dynamips Version](./screenshots/02_dynamips_version.png)
+![Dynamips Version](./Dynamips%20Version.png)
 
 *Dynamips 0.2.24 successfully compiled*
 
 ### Screenshot 3: Ubridge Version
 
-![Ubridge Version](./screenshots/03_ubridge_version.png)
+![Ubridge Version](./Ubridge%20Version.png)
 
 *Ubridge 1.2.1 successfully compiled*
 
 ### Screenshot 4: GNS3 Setup Wizard
 
-![GNS3 Setup Wizard](./screenshots/04_gns3_wizard.png)
+![GNS3 Setup Wizard](./GNS3%20Setup%20Wizard.png)
 
 *GNS3 local controller configuration*
 
 ### Screenshot 5: Complete Topology
 
-![Complete Topology](./screenshots/05_topology.png)
+![Complete Topology](./Complete%20Topology.png)
 
-*Topology with PC1, PC2, Switch*
+*Complete GNS3 topology with PC1, PC2, and the Ethernet Switch*
 
-### Screenshot 6: VPCS Console
+### Screenshot 6: VPCS Console – PC1 & PC2
 
-![VPCS Console](./screenshots/06_vpcs_console.png)
+![VPCS Console](./VPCS%20Console.png)
 
-*VPCS console successfully opened*
+*PC1 and PC2 VPCS consoles showing successful IP address configuration*
 
 ### Screenshot 7: IP Assignment
 
-![IP Assignment](./screenshots/07_ip_assignment.png)
+![IP Assignment](./IP%20Assignment.png)
 
 *Assigning IP addresses to PC1 and PC2*
 
 ### Screenshot 8: Ping Test
 
-![Ping Test](./screenshots/08_ping_test.png)
+![Ping Test](./Ping%20Test.png)
 
-*Successful ping from PC1 to PC2*
-
+*Successful connectivity test between PC1 and PC2*
 
 ## 🛡️ Security Lessons Learned
 
